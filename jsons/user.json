@@ -1,0 +1,7 @@
+{
+  "name": "caihao",
+  "father": "$user",
+  "friends": "$[]user",
+  "keywords": "$[]String",
+  "age": 23
+}
